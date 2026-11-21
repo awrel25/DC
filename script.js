@@ -66,8 +66,8 @@ document.addEventListener('DOMContentLoaded', () => {
       this.el.className = 'bouncing-cat';
 
       const img = document.createElement('img');
-      img.src = 'cat.jpg';
-      img.alt = 'Foto Kucing';
+      img.src = 'cat.png';
+      img.alt = 'Foto bagus';
       this.el.appendChild(img);
 
       // Stiker besar:
